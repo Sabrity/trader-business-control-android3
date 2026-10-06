@@ -28,3 +28,5 @@ jobs:
         with:
           name: trader-business-control-client-android
           path: app/build/outputs/apk/debug/app-debug.apk
+
+# APK build trigger: rebuilt from the approved adjusted Client App baseline.
